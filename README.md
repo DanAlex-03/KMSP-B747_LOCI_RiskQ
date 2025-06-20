@@ -34,8 +34,8 @@ The simulation includes both:
 ## Example Results
 
 - Estimated LOC-I probability over full approach: **~3.57 × 10⁻⁸**
-- Time-dependent \( P_F(t) \) curve fit with power-law:  
-  \( P_F(t) ≈ 10^{a t^b + c} \), \( R^2 = 0.9913 \)
+- The time-dependent failure probability was fit using a power-law model:
+  P_F(t) ≈ 10^(a·t^b + c), with a goodness of fit R² = 0.9913.
 - Sensitivity analysis reveals **angle of attack**, **crosswind**, and **N1** as most influential
 
 ## License and Permissions
