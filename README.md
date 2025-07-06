@@ -1,6 +1,6 @@
 # LOC-I Risk Modeling using Subset Simulation and Energy-Based Metrics
 
-This repository contains MATLAB code and supporting datasets developed for a thesis project that quantifies the probability of **Loss of Control In-Flight (LOC-I)** during the final approach phase of a **Boeing 747**, using a combination of physical energy modeling, flight data analysis, and rare-event simulation via **Subset Simulation**.
+This repository contains MATLAB code and supporting datasets developed for a thesis project that quantifies the probability of **Loss of Control In-Flight (LOC-I)** during the final approach phase of a **Boeing 747-300**, using a combination of physical energy modeling, flight data analysis, and rare-event simulation via **Subset Simulation**.
 
 ## Project Overview
 
