@@ -44,4 +44,4 @@ This repository is **not licensed for reuse or redistribution**. Please contact 
 
 ## Acknowledgments
 
-Developed as part of an undergraduate thesis (FTMD ITB, Student ID: 13621021) titled *Risk Quantification of Aerodynamic Stall and In-Flight Loss of Control (LOC-I) Events During Aircraft Approach*. Simulation methodology based on the TUM FSD Subset Simulation Toolbox and supervisor Dr. -Ing. Ir. Javensius Sembiring.
+Developed as part of an undergraduate thesis (FTMD ITB, Student ID: 13621021) titled *Risk Quantification of Aerodynamic Stall and In-Flight Loss of Control (LOC-I) Events During Aircraft Approach*. Simulation methodology based on the TUM FSD Subset Simulation Toolbox and supervised by Dr. -Ing. Ir. Javensius Sembiring.
